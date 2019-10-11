@@ -1,0 +1,5 @@
+- Imperative programming is like how you do something, 
+- declarative programming is more like what you do.” 
+- Static typed programming languages are those in which variables need not be defined before they're used. 
+- This implies that static typing has to do with the explicit declaration (or initialization) of variables before they're employed.
+- 
